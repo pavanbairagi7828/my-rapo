@@ -1,0 +1,64 @@
+html {
+    scroll-behavior: smooth; /* Enables smooth scrolling */
+  }
+
+  /* Hover effect for nav-links and social media buttons */
+  .nav-link:hover, .btn-custom:hover {
+    color: rgb(189, 99, 237) !important;
+    background-color: transparent;
+  }
+
+  .large-font {
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  
+  .btn-custom {
+    color: #f0f0f0;
+    color: #333;
+  }
+
+  .btn-custom:hover {
+    color: rgb(189, 99, 237);
+    color: white;
+  }
+
+  .for_space {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+
+  #size {
+    font-size: 2rem;
+  }
+
+  #siz {
+    font-size: 3ch;
+  }
+
+  h2 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+  }
+
+  #cap {
+    font-size: 3rem;
+  }
+
+  #data {
+    font-size: 2rem;
+  }
+
+  /* Add hover effect */
+  .hover-effect:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  #fucas{
+font-size: 8rem;
+color: #000;
+  }
+
